@@ -1,10 +1,13 @@
-Hello! 👋 I'm Ariel, a participant in the Android Learning Path at Bangkit Academy 2023. Currently, I'm pursuing my studies at the University of North Sumatra. My main focus is on learning about Android and mobile programming. As for a fun fact, life itself is full of mysteries and surprises, so let's embrace the journey together!
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <br>
-  <br>
+Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about creating innovative and user-friendly mobile applications. Here's a glimpse of my tech stack:
+
+## Tech Stack
+
+- Android Studio
+- Java
+- C++
+
+I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Android development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
   
 ### Github Statistic
 <p align="left">
