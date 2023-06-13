@@ -1,12 +1,4 @@
-### Hi! 👋 I'm Ariel.
-
-An android learning path participant at Bangkit Academy 2023
-
-I'm currently active in contributing as an Android Learning Path Participant at Bangkit Academy 2023
-
-- 🔭 I'm currently studying at the University of North Sumatra
-- 🌱 I’m currently learning about android and mobile programming
-- ⚡ Fun fact: well, there are no fun facts at the moment. Life is a mistery
+Hello! 👋 I'm Ariel, a participant in the Android Learning Path at Bangkit Academy 2023. Currently, I'm pursuing my studies at the University of North Sumatra. My main focus is on learning about Android and mobile programming. As for a fun fact, life itself is full of mysteries and surprises, so let's embrace the journey together!
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
