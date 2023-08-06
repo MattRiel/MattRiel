@@ -4,7 +4,9 @@ Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about cr
 ## Tech Stack
 
 - Android Studio
-- Java
+- Kotlin
+- Flutter
+- Dart
 - C++
 
 I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Android development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
