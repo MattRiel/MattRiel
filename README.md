@@ -21,3 +21,5 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/arielmatius/">LinkedIn</a>
 - <a href="https://www.instagram.com/arielmatius/">Instagram</a>
+
+<img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MattRiel&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
