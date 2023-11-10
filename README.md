@@ -23,3 +23,6 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 - <a href="https://www.instagram.com/arielmatius/">Instagram</a>
 
 <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=3a9424b2-a7e9-45b1-b004-c0da731ae6d1&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
