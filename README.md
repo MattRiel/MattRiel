@@ -22,8 +22,9 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 - <a href="https://www.linkedin.com/in/arielmatius/">LinkedIn</a>
 - <a href="https://www.instagram.com/arielmatius/">Instagram</a>
 
-<img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=3a9424b2-a7e9-45b1-b004-c0da731ae6d1&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+<!-- <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=arielmatius&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" /> -->
 
+[![wakatime](https://wakatime.com/badge/user/3a9424b2-a7e9-45b1-b004-c0da731ae6d1.svg)](https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1)
 <!--START_SECTION:waka-->
 
 ```rust
