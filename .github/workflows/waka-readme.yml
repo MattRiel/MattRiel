@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true # optional
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_7_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
