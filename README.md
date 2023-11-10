@@ -27,19 +27,16 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 [![wakatime](https://wakatime.com/badge/user/3a9424b2-a7e9-45b1-b004-c0da731ae6d1.svg)](https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1)
 <!--START_SECTION:waka-->
 
-```rust
+```dart
 From: 02 November 2023 - To: 09 November 2023
 
 Total Time: 12 hrs 23 mins
 
-Dart             12 hrs          >>>>>>>>>>>>>>>>>>>>>>>>-   96.91 %
-XML              9 mins          -------------------------   01.32 %
-YAML             7 mins          -------------------------   01.01 %
-GitIgnore file   2 mins          -------------------------   00.38 %
-Kotlin           1 min           -------------------------   00.22 %
-HTML             0 secs          -------------------------   00.11 %
-C++              0 secs          -------------------------   00.04 %
-Markdown         0 secs          -------------------------   00.01 %
+Dart             12 hrs          ████████████████████████▒   96.91 %
+XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
