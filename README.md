@@ -24,12 +24,12 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-Total Time: 28 hrs 40 mins
+Total Time: 30 hrs 39 mins
 
-Dart   28 hrs 40 mins  █████████████████████████   99.96 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Dart   30 hrs 35 mins  █████████████████████████   99.77 %
+YAML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
