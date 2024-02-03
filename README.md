@@ -24,12 +24,12 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Total Time: 35 hrs 32 mins
+Total Time: 33 hrs 45 mins
 
-Dart     34 hrs 59 mins  ████████████████████████▓   98.42 %
-Kotlin   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Dart     33 hrs 11 mins  ████████████████████████▓   98.34 %
+Kotlin   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
