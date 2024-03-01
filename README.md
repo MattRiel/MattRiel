@@ -24,15 +24,15 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-Total Time: 25 hrs 32 mins
+Total Time: 30 hrs 57 mins
 
-Dart              18 hrs 14 mins  ██████████████████░░░░░░░   71.45 %
-YAML              5 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Groovy            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Properties        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Gradle            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Dart              23 hrs 42 mins  ███████████████████░░░░░░   76.56 %
+YAML              5 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Groovy            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Properties        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Gradle            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
