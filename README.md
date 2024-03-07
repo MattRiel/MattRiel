@@ -15,7 +15,7 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <p align="left">
 <a href="https://github.com/MattRiel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattRiel&layout=compact&langs_count=8&theme=dark"/>
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MattRiel&theme=dark&mode=weekly" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MattRiel&theme=dark&mode=weekly" />
 </a>
 </p>
 
