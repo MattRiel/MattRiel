@@ -9,6 +9,13 @@ Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about cr
 
 I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Android development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
 
+<p align="left">
+<a href="https://github.com/MattRiel">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MattRiel&theme=dark&mode=weekly" />
+</a>
+</p>
+
+
 [![wakatime](https://wakatime.com/badge/user/3a9424b2-a7e9-45b1-b004-c0da731ae6d1.svg)](https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1)
 
 <p align="left">
@@ -36,3 +43,5 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
