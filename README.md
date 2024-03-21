@@ -31,15 +31,15 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-Total Time: 7 hrs 49 mins
+Total Time: 9 hrs 8 mins
 
-Dart             7 hrs 30 mins   ████████████████████████░   95.98 %
-Properties       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-IDEA_MODULE      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Dart             8 hrs 37 mins   ███████████████████████▓░   94.27 %
+XML              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Properties       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
