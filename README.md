@@ -31,14 +31,14 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Total Time: 6 hrs 45 mins
+Total Time: 6 hrs 9 mins
 
-Dart             6 hrs 42 mins   ████████████████████████▓   99.23 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Dart             6 hrs 6 mins    ████████████████████████▓   99.16 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
