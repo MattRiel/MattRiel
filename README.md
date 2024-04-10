@@ -12,12 +12,12 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 [![wakatime](https://wakatime.com/badge/user/3a9424b2-a7e9-45b1-b004-c0da731ae6d1.svg)](https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1)
 #
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/MattRiel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MattRiel&layout=compact&langs_count=8&theme=dark"/>
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MattRiel&theme=dark&mode=weekly" />
 </a>
-</p>
+</p> -->
 
 <p align="left">
 <a href="https://github.com/MattRiel">
