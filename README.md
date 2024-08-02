@@ -31,15 +31,15 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Total Time: 10 hrs 43 mins
+Total Time: 13 hrs 59 mins
 
-Dart         9 hrs 54 mins   ███████████████████████░░   92.35 %
-XML          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-TypeScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Dart              12 hrs 49 mins  ███████████████████████░░   91.60 %
+TypeScript        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+XML               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+YAML              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Other             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
