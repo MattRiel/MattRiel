@@ -3,7 +3,6 @@ Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about cr
 ## Tech Stack
 
 - Android Studio
-- Kotlin
 - Flutter
 - Dart
 
