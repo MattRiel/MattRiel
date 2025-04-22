@@ -30,15 +30,15 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 10 hrs 38 mins
+Total Time: 12 hrs 19 mins
 
-Dart                   10 hrs 25 mins  ████████████████████████▒   97.96 %
-textmate               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-YAML                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Kotlin                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Dart                   11 hrs 57 mins  ████████████████████████▒   96.94 %
+textmate               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+YAML                   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Image (svg)            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
