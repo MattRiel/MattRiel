@@ -30,13 +30,13 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Total Time: 16 hrs 28 mins
+Total Time: 12 hrs 26 mins
 
-TypeScript   16 hrs 11 mins  ████████████████████████▓   98.34 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   12 hrs 23 mins  █████████████████████████   99.61 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
