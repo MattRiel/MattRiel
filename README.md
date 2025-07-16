@@ -30,15 +30,13 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 07 July 2025 - To: 14 July 2025
+From: 08 July 2025 - To: 15 July 2025
 
-Total Time: 8 hrs 37 mins
+Total Time: 6 hrs 18 mins
 
-Go                5 hrs 25 mins   ███████████████▓░░░░░░░░░   63.04 %
-PHP               3 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   36.44 %
-JSON              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Apache Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go                5 hrs 25 mins   █████████████████████▓░░░   86.04 %
+PHP               52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
