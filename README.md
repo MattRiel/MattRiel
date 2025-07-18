@@ -30,11 +30,11 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-Total Time: 3 hrs 48 mins
+Total Time: 2 hrs 24 mins
 
-Go   3 hrs 48 mins   █████████████████████████   100.00 %
+Go   2 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
