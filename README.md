@@ -30,15 +30,14 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 12 hrs 36 mins
+Total Time: 5 hrs 49 mins
 
-PHP             11 hrs 38 mins  ███████████████████████░░   92.30 %
-JavaScript      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-TypeScript      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-SQL             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Go              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+PHP          5 hrs 41 mins   ████████████████████████▒   97.79 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
