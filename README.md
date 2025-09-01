@@ -30,11 +30,15 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 <!--START_SECTION:waka-->
 
 ```dart
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 50 mins
 
-No activity tracked
+Dart                   1 hr 25 mins    ███████████████████▒░░░░░   77.33 %
+YAML                   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+XML                    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Kotlin                 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Prolog                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
