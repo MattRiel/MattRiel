@@ -1,11 +1,4 @@
-Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about creating innovative and user-friendly mobile applications. Here's a glimpse of my tech stack:
-
-## Tech Stack
-
-- Android Studio
-- Flutter
-- Dart
-
+Hello! 👋 I'm Ariel, an aspiring programmer. I'm currently passionate about creating innovative and user-friendly web and mobile applications. Here's a glimpse of my tech stack:
 I'm constantly learning and exploring new technologies to enhance my skills and stay up-to-date with the latest trends in Android development. If you're interested in collaborating or have any exciting project ideas, feel free to reach out!
 
 [![wakatime](https://wakatime.com/badge/user/3a9424b2-a7e9-45b1-b004-c0da731ae6d1.svg)](https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1)
