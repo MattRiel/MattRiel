@@ -28,15 +28,15 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 22 hrs 54 mins
+Total Time: 19 hrs 34 mins
 
-JavaScript        9 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.80 %
-TypeScript        2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Go                2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-PHP               1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-YAML              1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+JavaScript        9 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.80 %
+PHP               1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+TypeScript        1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Go                1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+YAML              54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
