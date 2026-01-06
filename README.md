@@ -28,15 +28,12 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 2 hrs 10 mins
+Total Time: 19 mins
 
-JavaScript        49 mins         █████████▓░░░░░░░░░░░░░░░   38.03 %
-PHP               20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Markdown          14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Other             13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Prisma            8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+CSV    19 mins         ████████████████████████▓   98.38 %
+Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
