@@ -28,13 +28,12 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-Total Time: 37 mins
+Total Time: 18 mins
 
-CSV      36 mins         ████████████████████████▒   97.27 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+CSV      17 mins         ████████████████████████░   96.10 %
+Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
