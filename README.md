@@ -28,15 +28,15 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 25 hrs 31 mins
+Total Time: 22 hrs 21 mins
 
-TypeScript   10 hrs 20 mins        ██████████░░░░░░░░░░░░░░░   40.51 %
-Markdown     5 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Python       4 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Go           1 hr 3 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JSON         56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript   7 hrs 11 mins         ████████░░░░░░░░░░░░░░░░░   32.17 %
+Markdown     5 hrs 52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+Python       2 hrs 56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+YAML         1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Go           1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
