@@ -28,15 +28,15 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Total Time: 22 hrs 5 mins
+Total Time: 21 hrs 38 mins
 
-Dart         6 hrs 56 mins         ████████░░░░░░░░░░░░░░░░░   31.40 %
-PHP          4 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Bash         2 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Other        1 hr 52 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Markdown     1 hr 52 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Dart         6 hrs 59 mins         ████████░░░░░░░░░░░░░░░░░   32.31 %
+PHP          4 hrs 45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
+Bash         2 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Other        2 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Markdown     1 hr 53 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
