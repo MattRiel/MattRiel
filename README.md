@@ -28,15 +28,15 @@ Feel free to connect if you’d like to work together or share ideas!
 <!--START_SECTION:waka-->
 
 ```dart
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Total Time: 20 hrs 37 mins
+Total Time: 18 hrs 54 mins
 
-PHP                        10 hrs 47 mins        █████████████░░░░░░░░░░░░   52.32 %
-Markdown                   2 hrs 52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-JSON                       1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Docker                     1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-YAML                       1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+PHP                        9 hrs 24 mins         ████████████▒░░░░░░░░░░░░   49.75 %
+Other                      2 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Markdown                   1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Docker                     1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON                       1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
