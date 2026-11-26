@@ -1,4 +1,4 @@
-# Malo periculosam libertatem quam quietum servitium
+<h1 data-importer="text" align="center">Malo periculosam libertatem quam quietum servitium</h1>
 
 <p align="center">
   <a href="https://wakatime.com/@3a9424b2-a7e9-45b1-b004-c0da731ae6d1">
