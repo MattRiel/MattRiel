@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 
 ```dart
-From: 19 November 2026 - To: 26 November 2026
+From: 20 November 2026 - To: 27 November 2026
 
-Total Time: 32 hrs 40 mins
+Total Time: 36 hrs 54 mins
 
-PHP                        20 hrs 37 mins        ███████████████▓░░░░░░░░░   63.14 %
-TypeScript                 3 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-JavaScript                 2 hrs 29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Markdown                   2 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-CSS                        59 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+PHP                        25 hrs 51 mins        █████████████████▓░░░░░░░   70.04 %
+TypeScript                 3 hrs 18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+JavaScript                 2 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Markdown                   1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+CSS                        1 hr 9 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
